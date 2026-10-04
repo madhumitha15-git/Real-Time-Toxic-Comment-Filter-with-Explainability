@@ -1,0 +1,11 @@
+{
+  "identity_weight": 3.0,
+  "f1": 0.602,
+  "threshold": 0.65,
+  "latency_ms": 3.9,
+  "fpr_identity_nontoxic": 0.056,
+  "fpr_other_nontoxic": 0.024,
+  "n_identity_nontoxic": 1171,
+  "auto_decided_pct": 96.7,
+  "f1_auto_decided": 0.635
+}
